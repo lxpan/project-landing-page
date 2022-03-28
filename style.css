@@ -2,6 +2,10 @@
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 body {
     margin: 0;
 }
@@ -36,7 +40,6 @@ body {
     /* Header link text */
     color: #E5E7EB;
     font-size: 18px;
-    text-decoration: none;
 }
 
 .intro-content-section {
@@ -64,6 +67,17 @@ body {
     font-size: 18px;
     color: #E5E7EB;
     
+}
+
+.intro-right {
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    color: lightgrey;
+}
+
+.intro-right a {
+    color: lightgray;
 }
 
 .intro-section button {
