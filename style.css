@@ -77,4 +77,7 @@
     text-align: center;
 }
 
-
+.info-card img {
+    /* Add rounded corner to info images */
+    border-radius: 10%;
+}
