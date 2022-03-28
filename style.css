@@ -46,6 +46,10 @@ body {
     margin-bottom: 100px;
 }
 
+.intro-content-section img {
+    border-radius: 10px;
+}
+
 .intro-left, .intro-right {
     flex: 1;
 }
