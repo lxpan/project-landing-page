@@ -159,3 +159,11 @@ body {
     color: white;
     font-size: medium;
 }
+
+.footer {
+    padding: 50px;
+    display: flex;
+    color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+}
