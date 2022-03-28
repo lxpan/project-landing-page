@@ -123,11 +123,10 @@ body {
 }
 
 .cta-box {
-    border-radius: 15px;
     background-color: #3882F6;
+    border-radius: 15px;
     padding: 40px;
     width: 60%;
-    height: auto;
     
     display: flex;
     align-items: center;
@@ -139,4 +138,8 @@ body {
 
 .cta-left, .cta-right {
     flex: 1;
+}
+
+.cta-right {
+    text-align: center;
 }
