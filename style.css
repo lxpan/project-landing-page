@@ -113,3 +113,30 @@ body {
     font-size: 24px;
     font-weight: bold;
 }
+
+.cta-section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-box {
+    border-radius: 15px;
+    background-color: #3882F6;
+    padding: 40px;
+    width: 60%;
+    height: auto;
+    
+    display: flex;
+    align-items: center;
+}
+
+.cta-left {
+    display: inline-block;
+}
+
+.cta-left, .cta-right {
+    flex: 1;
+}
